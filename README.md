@@ -46,7 +46,7 @@ At Freya Systems LLC, we faced the challenge of processing **93GB of unstructure
 - **Engineered a Python-based data pipeline** with advanced filtering and feature engineering, shrinking the dataset to **21GB** and reducing processing time by **48%**.
 - Conducted comprehensive **time series analysis**, uncovering critical insights such as:
   - A **29% flight delay rate at Newark Airport (EWR)**, highlighting potential savings of over **$1.1 billion**.
-  - **JetBlue** showed a significant **28% delay rate** ($1.1 billion impact).
+  - **JetBlue** showed a significant **28% delay rate** (**$1.1 billion** impact).
   - Identified **AIRBUS A320 251N** as the most problematic aircraft, with a **43% delay rate**, amounting to potential losses of **$1.6 billion**.
 - Implemented a **K-Nearest Neighbors model** predicting delays with a remarkable **93.5% accuracy**, facilitating proactive operational strategies.
 - Designed and deployed **11+ interactive Tableau dashboards**, enabling stakeholders to visualize insights clearly and make informed, strategic decisions for operational improvement.
