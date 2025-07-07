@@ -43,7 +43,7 @@ In this analytical project, my team and I explored large-scale airline performan
 - Designed clear, insightful visualizations and communicated key findings effectively to stakeholders.
 
 ### 📚 Presentation
-Explore my comprehensive analysis: [Airline Performance Analysis](Presentation/Final_presentation.pdf).
+Explore my comprehensive analysis: [Airline Performance Analysis](https://github.com/DhruvKandhari/Airline-Performance-Analysis/blob/main/Airline%20Performance%20Analysis%20-%20Predictive%20Insights%20into%20Flight%20Delays.pdf).
 
 ### ✉️ Let's Connect
 - **LinkedIn:** [Dhruv Kandhari](https://www.linkedin.com/in/dhruvkandhari/)
