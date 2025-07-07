@@ -59,7 +59,7 @@ At Freya Systems LLC, we faced the challenge of processing **93GB of unstructure
 - Effectively communicated findings and strategic recommendations to key stakeholders.
 
 ### 📚 Project Presentation
-Explore my comprehensive analysis here: [Airline Performance Analysis](Presentation/Final_presentation.pdf).
+Explore my comprehensive analysis here: [Airline Performance Analysis](https://github.com/DhruvKandhari/Airline-Performance-Analysis/blob/main/Airline%20Performance%20Analysis%20-%20Predictive%20Insights%20into%20Flight%20Delays.pdf).
 
 ### ✉️ Let's Connect
 - **LinkedIn:** [Dhruv Kandhari](https://www.linkedin.com/in/dhruvkandhari/)
